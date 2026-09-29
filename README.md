@@ -8,9 +8,8 @@ Website portofolio pribadi untuk memperkenalkan profil, menampilkan proyek, mera
 - Daftar proyek beserta deskripsi, teknologi, dan tautan demo atau repositori
 - Kumpulan keterampilan berdasarkan kategori
 - Daftar sertifikat dan tautan verifikasi
-- Navigasi antarbagian dengan smooth scrolling
-- Tampilan responsif untuk berbagai ukuran layar
-- Mode terang dan gelap
+- Tampilan responsif 
+- Light Mode & Dark Mode
 
 ## Teknologi
 
