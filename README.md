@@ -49,6 +49,6 @@ Informasi profil, proyek, keterampilan, dan sertifikat dikelola di `src/data/por
 
 - Email: [firhansmdzky@gmail.com](mailto:firhansmdzky@gmail.com)
 
-## Lisensi
+<!-- ## Lisensi
 
-Tambahkan lisensi di sini jika repository ini akan dibagikan atau digunakan ulang oleh orang lain.
+Tambahkan lisensi di sini jika repository ini akan dibagikan atau digunakan ulang oleh orang lain. -->
