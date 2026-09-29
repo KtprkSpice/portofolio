@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Definisi Custom Theme / Warna */
+@theme {
+  --color-brand-cyan: #00f0ff;
+  --color-brand-accent: #0284c7;
+}
+
+/* Konfigurasi Dark Mode berbasis Class (opsional untuk override behavior) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
+
+section[id] {
+  scroll-margin-top: 5rem;
+}
