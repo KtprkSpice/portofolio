@@ -5,7 +5,7 @@ export default function Projects({ projectsData }) {
     <section id="projects" className="space-y-6">
       <div className="space-y-1">
         <p className="font-mono text-xs text-cyan-600 dark:text-cyan-400 font-semibold tracking-wider">
-          01 // PORTFOLIO
+          01 PORTFOLIO
         </p>
         <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white">
           Featured Projects

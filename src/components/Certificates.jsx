@@ -3,7 +3,7 @@ export default function Certificates({ certificatesData }) {
     <section id="certificates" className="space-y-6">
       <div className="space-y-1">
         <p className="font-mono text-xs text-cyan-600 dark:text-cyan-400 font-semibold tracking-wider">
-          03 // CREDENTIALS
+          03 CREDENTIALS
         </p>
         <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white">
           Certificates & Credentials

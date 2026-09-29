@@ -18,7 +18,7 @@ export const projectsData = [
   {
     id: 1,
     title: "HRIS & Employee Portal",
-    category: "Fullstack App • Laravel + ReactJS + MySQL",
+    category: "Fullstack App • Laravel + Blade + MySQL",
     description:
       "Employee data management system featuring an employee directory, daily attendance tracking, leave requests submission & approval workflow, and basic salary slip generator.",
     highlights: [
@@ -26,24 +26,9 @@ export const projectsData = [
       "RESTful API backend powered by Laravel Eloquent ORM",
       "Responsive Tailwind CSS UI with interactive React state management",
     ],
-    tech: ["Laravel", "ReactJS", "MySQL", "Tailwind CSS"],
-    liveDemoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 2,
-    title: "Modern Personal & Tech Blog",
-    category: "Web Platform • Go / Node + ReactJS + MySQL",
-    description:
-      "Lightweight Markdown-based publishing platform with reader-friendly article pages, category tagging, full-text search functionality, and admin CRUD for creating and scheduling posts.",
-    highlights: [
-      "High-performance RESTful API routing with lightweight Go routines",
-      "Safe Markdown parser integration with syntax highlight renderer",
-      "Clean relational database storage with optimized post categories",
-    ],
-    tech: ["Go (Golang)", "ExpressJS", "ReactJS", "MySQL"],
-    liveDemoUrl: "#",
-    githubUrl: "#",
+    tech: ["Laravel", "Blade", "MySQL", "Tailwind CSS"],
+    liveDemoUrl: "https://lightskyblue-goshawk-124795.hostingersite.com/",
+    githubUrl: "https://github.com/KtprkSpice/HRIS-MSN",
   },
 ];
 
@@ -130,24 +115,6 @@ export const certificatesData = [
     year: "2024",
     description:
       "Comprehensive bootcamp covering Laravel, ReactJS, RESTful API architecture, MySQL relational database modeling, and team capstone application delivery.",
-    verifyUrl: "#",
-  },
-  {
-    id: "UC-GO-44109",
-    title: "Building Microservices & REST APIs with Go",
-    issuer: "Udemy / Coursera",
-    year: "2023",
-    description:
-      "In-depth curriculum on Go syntax fundamentals, Goroutines concurrency, standard HTTP library, Gin web framework, SQL driver integration, and unit tests.",
-    verifyUrl: "#",
-  },
-  {
-    id: "HR-SQL-77312",
-    title: "Relational Database Design & SQL Essentials",
-    issuer: "Oracle Academy / HackerRank",
-    year: "2023",
-    description:
-      "Database normalization (1NF-3NF), ERD schema modeling, complex inner and outer joins, indexing strategies, and transactional ACID compliance integrity.",
     verifyUrl: "#",
   },
 ];
