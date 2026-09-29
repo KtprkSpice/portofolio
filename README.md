@@ -1,16 +1,54 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website portofolio pribadi untuk memperkenalkan profil, menampilkan proyek, merangkum keterampilan teknis, dan mencantumkan sertifikat. Halaman ini juga menyediakan tautan kontak agar pengunjung dapat menghubungi saya.
 
-Currently, two official plugins are available:
+## Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Bagian profil dengan ringkasan, lokasi, dan teknologi yang digunakan
+- Daftar proyek beserta deskripsi, teknologi, dan tautan demo atau repositori
+- Kumpulan keterampilan berdasarkan kategori
+- Daftar sertifikat dan tautan verifikasi
+- Navigasi antarbagian dengan smooth scrolling
+- Tampilan responsif untuk berbagai ukuran layar
+- Mode terang dan gelap
 
-## React Compiler
+## Teknologi
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- Lucide React dan Boxicons
 
-## Expanding the ESLint configuration
+## Menjalankan secara lokal
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Pastikan Node.js dan npm sudah terpasang. Kemudian jalankan:
+
+```bash
+git clone <URL-REPOSITORY>
+cd <NAMA-FOLDER-REPOSITORY>
+npm install
+npm run dev
+```
+
+Buka alamat lokal yang ditampilkan Vite di terminal.
+
+## Perintah tersedia
+
+```bash
+npm run dev      # Menjalankan server pengembangan
+npm run build    # Membuat build untuk produksi
+npm run preview  # Meninjau build produksi secara lokal
+npm run lint     # Memeriksa kode dengan ESLint
+```
+
+## Kustomisasi konten
+
+Informasi profil, proyek, keterampilan, dan sertifikat dikelola di `src/data/portofolioData.js`. Ganti data contoh dan tautan `#` dengan informasi serta URL yang sesuai sebelum memublikasikan website.
+
+## Kontak
+
+- Email: [firhansmdzky@gmail.com](mailto:firhansmdzky@gmail.com)
+
+## Lisensi
+
+Tambahkan lisensi di sini jika repository ini akan dibagikan atau digunakan ulang oleh orang lain.
