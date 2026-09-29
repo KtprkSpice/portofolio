@@ -49,6 +49,10 @@ Informasi profil, proyek, keterampilan, dan sertifikat dikelola di `src/data/por
 
 - Email: [firhansmdzky@gmail.com](mailto:firhansmdzky@gmail.com)
 
+## Tampilan Pada Website Ini Menggunakan Stich AI
+
+Untuk tampilan pada website portofolio pribadi ini saya menggunakan stitch ai untuk menghasilkan tampilannya.
+
 <!-- ## Lisensi
 
 Tambahkan lisensi di sini jika repository ini akan dibagikan atau digunakan ulang oleh orang lain. -->
